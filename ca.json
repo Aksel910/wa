@@ -1145,7 +1145,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv104.ca@WA",,
+    "id": "iptv104.ca@WA",
     "name": "The Shopping Channel",
     "iptv_urls": [
       "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
