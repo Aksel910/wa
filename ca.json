@@ -1,6 +1,6 @@
 [
   {
-    "id": "iptv1.ca@WA1",
+    "id": "iptv1.ca@WA",
     "name": "3ABN Canada",
     "iptv_urls": [
       "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
@@ -11,7 +11,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv2.ca@WA2",
+    "id": "iptv2.ca@WA",
     "name": "Afghan Nobel Movies",
     "iptv_urls": [
       "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
@@ -22,7 +22,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv3.ca@WA3",
+    "id": "iptv3.ca@WA",
     "name": "Afghan Nobel TV",
     "iptv_urls": [
       "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
@@ -44,7 +44,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv5.ca@WA5",
+    "id": "iptv5.ca@WA",
     "name": "Apna Punjab TV",
     "iptv_urls": [
       "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
@@ -55,7 +55,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv6.ca@WA6",
+    "id": "iptv6.ca@WA",
     "name": "Az Star TV",
     "iptv_urls": [
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
