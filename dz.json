@@ -79,7 +79,7 @@
   {
     "id": "iptv/8.dz@WA",
     "name": "TV4 (Algeria)",
-    "iptv_urls": [
+    "iptv_url": [
       "http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0"
     ],
     "youtube_url": [],
