@@ -1,6 +1,6 @@
 [
   {
-    "id": "iptv1.ca@WA",
+    "id": "iptv1.ca@WA1",
     "name": "3ABN Canada",
     "iptv_urls": [
       "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
@@ -11,7 +11,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv2.ca@WA",
+    "id": "iptv2.ca@WA2",
     "name": "Afghan Nobel Movies",
     "iptv_urls": [
       "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
@@ -22,7 +22,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv3.ca@WA",
+    "id": "iptv3.ca@WA3",
     "name": "Afghan Nobel TV",
     "iptv_urls": [
       "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8"
@@ -44,7 +44,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv5.ca@WA",
+    "id": "iptv5.ca@WA5",
     "name": "Apna Punjab TV",
     "iptv_urls": [
       "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
@@ -55,7 +55,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv6.ca@WA",
+    "id": "iptv6.ca@WA6",
     "name": "Az Star TV",
     "iptv_urls": [
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
@@ -168,7 +168,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv16.ca@WA",
+    "id": "16.ca@WA",
     "name": "CityNews Vancouver",
     "iptv_urls": [
       "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
@@ -390,7 +390,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv36.ca@WA",
+    "id": "36.ca@WA",
     "name": "icnet 1",
     "iptv_urls": [
       "https://icnet1hls.wns.live/hls/stream.m3u8"
@@ -423,7 +423,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv39.ca@WA",
+    "id": "iptv.ca@WA",
     "name": "IIPC TV",
     "iptv_urls": [
       "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
@@ -435,7 +435,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv40.ca@WA",
+    "id": "40.ca@WA",
     "name": "iTV Afrobeats Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
@@ -446,7 +446,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv41.ca@WA",
+    "id": "41.ca@WA",
     "name": "iTV Arabic Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
@@ -457,7 +457,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv42.ca@WA",
+    "id": "42.ca@WA",
     "name": "iTV Indian Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
@@ -468,7 +468,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv43.ca@WA",
+    "id": "43.ca@WA",
     "name": "iTV Latin Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
@@ -479,7 +479,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv44.ca@WA",
+    "id": "44.ca@WA",
     "name": "iTV Turkish Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8"
@@ -490,7 +490,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv45.ca@WA",
+    "id": "45.ca@WA",
     "name": "iTV Urban Music",
     "iptv_urls": [
       "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
@@ -501,7 +501,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv46.ca@WA",
+    "id": "46.ca@WA",
     "name": "Legislative Assembly of British Columbia",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8"
@@ -512,7 +512,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv47.ca@WA",
+    "id": "47.ca@WA",
     "name": "Legislative Assembly of British Columbia Committee A",
     "iptv_urls": [
       "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
@@ -523,7 +523,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv48.ca@WA",
+    "id": "48.ca@WA",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
@@ -534,7 +534,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv49.ca@WA",
+    "id": "49.ca@WA",
     "name": "Legislative Assembly of Ontario (without interpretation)",
     "iptv_urls": [
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
@@ -545,7 +545,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv50.ca@WA",
+    "id": "50.ca@WA",
     "name": "Legislative Assembly of Ontario Committees (room 1)",
     "iptv_urls": [
       "https://temp2.isilive.ca/live/_definst_/ontla/committee_1-en/playlist.m3u8"
@@ -556,7 +556,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv51.ca@WA",
+    "id": "51.ca@WA",
     "name": "Legislative Assembly of Ontario Committees (room 2)",
     "iptv_urls": [
       "https://lin13.isilive.ca/live/_definst_/ontla/committee_2-en/playlist.m3u8"
@@ -567,7 +567,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv52.ca@WA",
+    "id": "52.ca@WA",
     "name": "Legislative Assembly of Ontario Committees (room 151)",
     "iptv_urls": [
       "https://temp3.isilive.ca/live/_definst_/ontla/rm151-en/playlist.m3u8"
@@ -578,7 +578,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv53.ca@WA",
+    "id": "53.ca@WA",
     "name": "Legislative Assembly TV Nunavut",
     "iptv_urls": [
       "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
@@ -589,7 +589,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv54.ca@WA",
+    "id": "54.ca@WA",
     "name": "Love Nature",
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
@@ -605,7 +605,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv55.ca@WA",
+    "id": "55.ca@WA",
     "name": "Made In History",
     "iptv_urls": [],
     "youtube_urls": [
@@ -616,7 +616,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv56.ca@WA",
+    "id": "56.ca@WA",
     "name": "Montreal Greek TV",
     "iptv_urls": [
       "https://live.greektv.ca/hls1/greektv.m3u8"
@@ -627,7 +627,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv57.ca@WA",
+    "id": "57.ca@WA",
     "name": "Newfoundland Television",
     "iptv_urls": [
       "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8"
@@ -638,7 +638,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv58.ca@WA",
+    "id": "58.ca@WA",
     "name": "NHL Centre Ice 6",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/NHL_6/index.m3u8"
@@ -649,7 +649,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv59.ca@WA",
+    "id": "59.ca@WA",
     "name": "NHL Centre Ice 7",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/NHL_7/index.m3u8"
@@ -660,7 +660,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv60.ca@WA",
+    "id": "60.ca@WA",
     "name": "NHL Centre Ice 8",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/NHL_8/index.m3u8"
@@ -671,7 +671,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv61.ca@WA",
+    "id": "61.ca@WA",
     "name": "Noovo Cinéma",
     "iptv_urls": [
       "https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8"
@@ -682,7 +682,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": " iptv62.ca@WA",
+    "id": "62.ca@WA",
     "name": "Noovo Comédies",
     "iptv_urls": [
       "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8"
@@ -693,7 +693,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv63.ca@WA",
+    "id": "63.ca@WA",
     "name": "Noovo Téléréalités",
     "iptv_urls": [
       "https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8"
@@ -704,7 +704,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv64.ca@WA",
+    "id": "64.ca@WA",
     "name": "Now TV 102.3FM Edmonton (CKNO-FM)",
     "iptv_urls": [
       "https://videostream.jpbgdigital.com/NOWTV.m3u8"
@@ -715,7 +715,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv65.ca@WA",
+    "id": "65.ca@WA",
     "name": "NTV+",
     "iptv_urls": [
       "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8"
@@ -726,7 +726,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv66.ca@WA",
+    "id": "66.ca@WA",
     "name": "Ontario Parliamentary Network",
     "iptv_urls": [
       "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
@@ -738,7 +738,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv67.ca@WA",
+    "id": "67.ca@WA",
     "name": "Parnian TV",
     "iptv_urls": [
       "https://live2.parnian.tv/hls/.m3u8"
@@ -749,7 +749,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv68.ca@WA",
+    "id": "68.ca@WA",
     "name": "Plymouth Rock TV",
     "iptv_urls": [
       "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8"
@@ -760,7 +760,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv69.ca@WA",
+    "id": "69.ca@WA",
     "name": "Qello Concerts by Stingray",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8"
@@ -771,7 +771,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv70.ca@WA",
+    "id": "70.ca@WA",
     "name": "Qello Concerts by Stingray",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052"
@@ -782,7 +782,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv71.ca@WA",
+    "id": "71.ca@WA",
     "name": "Quo Vadis Ministry TV",
     "iptv_urls": [
       "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8"
@@ -793,7 +793,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv72.ca@WA",
+    "id": "72.ca@WA",
     "name": "Radio Tele Evangile Sans Limite",
     "iptv_urls": [
       "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8"
@@ -804,7 +804,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv73.ca@WA",
+    "id": "73.ca@WA",
     "name": "Sikh Spiritual Centre Rexdale",
     "iptv_urls": [
       "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
@@ -815,7 +815,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv74.ca@WA",
+    "id": "74.ca@WA",
     "name": "Sooriyan TV",
     "iptv_urls": [
       "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
@@ -826,7 +826,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv75.ca@WA",
+    "id": "75.ca@WA",
     "name": "Stingray Classic Rock",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8"
@@ -837,7 +837,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv76.ca@WA",
+    "id": "76.ca@WA",
     "name": "Stingray Classica",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"
@@ -848,7 +848,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv77.ca@WA",
+    "id": "77.ca@WA",
     "name": "Stingray CMusic",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
@@ -859,7 +859,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv78.ca@WA",
+    "id": "78.ca@WA",
     "name": "Stingray DJAZZ",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8"
@@ -870,7 +870,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv79.ca@WA",
+    "id": "79.ca@WA",
     "name": "Stingray Easy Listening",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"
@@ -881,7 +881,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv80.ca@WA",
+    "id": "80.ca@WA",
     "name": "Stingray Flashback 70s",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8"
@@ -892,7 +892,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv81.ca@WA",
+    "id": "81.ca@WA",
     "name": "Stingray Greatest Hits",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053"
@@ -903,7 +903,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv82.ca@WA",
+    "id": "82.ca@WA",
     "name": "Stingray Hit List",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8"
@@ -914,7 +914,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv83.ca@WA",
+    "id": "83.ca@WA",
     "name": "Stingray Hitlist",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054"
@@ -925,7 +925,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv84.ca@WA",
+    "id": "84.ca@WA",
     "name": "Stingray Holiday Hits",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8"
@@ -936,7 +936,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv85.ca@WA",
+    "id": "85.ca@WA",
     "name": "Stingray Hot Country",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8"
@@ -947,7 +947,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv86.ca@WA",
+    "id": "86.ca@WA",
     "name": "Stingray Karaoke",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8"
@@ -958,7 +958,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv87.ca@WA",
+    "id": "87.ca@WA",
     "name": "Stingray Naturescape",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056"
@@ -969,7 +969,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv88.ca@WA",
+    "id": "88.ca@WA",
     "name": "Stingray Nothin' But 90s",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8"
@@ -980,7 +980,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv89.ca@WA",
+    "id": "89.ca@WA",
     "name": "Stingray Pop Adult",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8"
@@ -991,7 +991,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv90.ca@WA",
+    "id": "90.ca@WA",
     "name": "Stingray Remember the 80s",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8"
@@ -1002,7 +1002,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv91.ca@WA",
+    "id": "91.ca@WA",
     "name": "Stingray Remember the 80s",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071"
@@ -1013,7 +1013,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv92.ca@WA",
+    "id": "92.ca@WA",
     "name": "Stingray Rock Alternative",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8"
@@ -1024,7 +1024,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv93.ca@WA",
+    "id": "93.ca@WA",
     "name": "Stingray Romance Latino",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8"
@@ -1035,7 +1035,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv94.ca@WA",
+    "id": "94.ca@WA",
     "name": "Stingray Smooth Jazz",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"
@@ -1046,7 +1046,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv95.ca@WA",
+    "id": "95.ca@WA",
     "name": "Stingray Soul Storm",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8"
@@ -1057,7 +1057,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv96.ca@WA",
+    "id": "96.ca@WA",
     "name": "Stingray The Spa",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8"
@@ -1068,7 +1068,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv97.ca@WA",
+    "id": "97.ca@WA",
     "name": "Stingray Today's KPOP",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8"
@@ -1079,7 +1079,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv98.ca@WA",
+    "id": "98.ca@WA",
     "name": "Stingray Today's Latin Pop",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8"
@@ -1090,7 +1090,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv99.ca@WA",
+    "id": "99.ca@WA",
     "name": "Stingray Urban Beat",
     "iptv_urls": [
       "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8"
@@ -1101,7 +1101,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv100.ca@WA",
+    "id": "100.ca@WA",
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1112,7 +1112,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv101.ca@WA",
+    "id": "101.ca@WA",
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1123,7 +1123,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv102.ca@WA",
+    "id": "102.ca@WA",
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1134,7 +1134,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv103.ca@WA",
+    "id": "103.ca@WA",
     "name": "The Jack Hannah Channel",
     "iptv_urls": [
       "https://littonjackhannah-samsungca.amagi.tv/playlist.m3u8"
@@ -1145,7 +1145,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv104.ca@WA",
+    "id": "104.ca@WA",
     "name": "The Shopping Channel",
     "iptv_urls": [
       "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
@@ -1156,7 +1156,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv105.ca@WA",
+    "id": "105.ca@WA",
     "name": "Total Drama: All Stars",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1167,7 +1167,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv106.ca@WA",
+    "id": "106.ca@WA",
     "name": "Total Drama: The Ridonculous Race",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1178,7 +1178,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv107.ca@WA",
+    "id": "107.ca@WA",
     "name": "Total Drama: World Tour",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1189,7 +1189,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv108.ca@WA",
+    "id": "108.ca@WA",
     "name": "Total Dramarama",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1200,7 +1200,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv109.ca@WA",
+    "id": "109.ca@WA",
     "name": "TSN The Ocho",
     "iptv_urls": [
       "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8"
@@ -1211,7 +1211,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv110.ca@WA",
+    "id": "110.ca@WA",
     "name": "TSN1",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/TSN_1/index.m3u8"
@@ -1222,7 +1222,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv111.ca@WA",
+    "id": "111.ca@WA",
     "name": "TSN4",
     "iptv_urls": [
       "https://fl1.moveonjoy.com/TSN_4/index.m3u8"
@@ -1233,7 +1233,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv112.ca@WA",
+    "id": "112.ca@WA",
     "name": "TV Punjab",
     "iptv_urls": [
       "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
@@ -1244,7 +1244,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv113.ca@WA",
+    "id": "113.ca@WA",
     "name": "TV Témis",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1255,7 +1255,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv114.ca@WA",
+    "id": "114.ca@WA",
     "name": "Watan-e-Maa TV",
     "iptv_urls": [
       "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
@@ -1266,7 +1266,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv115.ca@WA",
+    "id": "115.ca@WA",
     "name": "WatchMojo.com",
     "iptv_urls": [],
     "youtube_urls": [
@@ -1277,7 +1277,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv116.ca@WA",
+    "id": "116.ca@WA",
     "name": "WCGtv Public",
     "iptv_urls": [
       "https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8"
@@ -1288,7 +1288,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "iptv117.ca@WA",
+    "id": "117.ca@WA",
     "name": "Wild TV",
     "iptv_urls": [
       "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
