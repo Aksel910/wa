@@ -281,7 +281,7 @@
     "id": "26.ca@WA",  
     "name": "Garfield & Friends",
     "tv_url": [],
-    "youtube_urls": [
+    "youtube_url": [
       "https://www.youtube-nocookie.com/embed/_1lbm1eoXD4"
     ],
     "language": "eng",
@@ -517,7 +517,7 @@
     "tv_url": [
       "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_url": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -687,7 +687,7 @@
     "tv_url": [
       "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_url": [],
     "language": "",
     "country": "ca",
     "isGeoBlocked": false
