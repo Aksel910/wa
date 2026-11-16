@@ -46,7 +46,7 @@
   {
     "id": "5.dz@WA",
     "name": "Elwatania TV",
-    "tv_url": [
+    "iptv_urls": [
       "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
     ],
     "youtube_urls": [],
