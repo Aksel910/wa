@@ -1,6 +1,6 @@
 [
   {
-    "id": "AL24.dz@WA",
+    "id": "iptv1.dz@WA",
     "name": "AL24 News",
     "iptv_urls": [
       "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
@@ -11,7 +11,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "Amou.dz@WA",
+    "id": "iptv2.dz@WA",
     "name": "Amou Yazid TV",
     "iptv_urls": [
       "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8"
@@ -22,7 +22,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "CNA.dz@WA",
+    "id": "iptv3.dz@WA",
     "name": "CNA",
     "iptv_urls": [
       "https://live.creacast.com/cna/stream/playlist.m3u8"
@@ -33,7 +33,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "ElHeddaf.dz@WA",
+    "id": "iptv4.dz@WA",
     "name": "El Heddaf TV",
     "iptv_urls": [
       "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
@@ -44,7 +44,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "Elwatania.dz@WA",
+    "id": "iptv5.dz@WA",
     "name": "Elwatania TV",
     "iptv_urls": [
       "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
@@ -55,7 +55,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "StoryChannel.dz@WA",
+    "id": "iptv6.dz@WA",
     "name": "StoryChannel TV",
     "iptv_urls": [
       "https://136044159.r.cdnsun.net/storychannel.m3u8"
@@ -66,7 +66,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "TV2.dz@WA",
+    "id": "iptv7.dz@WA",
     "name": "TV2 (Algeria)",
     "iptv_urls": [
       "http://185.9.2.18/chid_347/index.m3u8"
@@ -77,7 +77,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "TV4.dz@WA",
+    "id": "iptv/8.dz@WA",
     "name": "TV4 (Algeria)",
     "iptv_urls": [
       "http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0"
@@ -88,7 +88,7 @@
     "isGeoBlocked": false
   },
   {
-    "id": "Almagharibia.dz@WA",
+    "id": "iptv9.dz@WA",
     "name": "Almagharibia TV: المغاربية",
     "iptv_urls": [],
     "youtube_urls": [
