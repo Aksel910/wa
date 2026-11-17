@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1.dz@WA",
+    "name": "AL24 News",
+    "iptv_urls": [
+      "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "2.dz@WA",
+    "name": "Amou Yazid TV",
+    "iptv_urls": [
+      "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "3.dz@WA",
+    "name": "CNA",
+    "iptv_urls": [
+      "https://live.creacast.com/cna/stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "4.dz@WA",
+    "name": "El Heddaf TV",
+    "iptv_urls": [
+      "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "5.dz@WA",
+    "name": "Elwatania TV",
+    "iptv_urls": [
+      "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "6.dz@WA",
+    "name": "StoryChannel TV",
+    "iptv_urls": [
+      "https://136044159.r.cdnsun.net/storychannel.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "7.dz@WA",
+    "name": "TV2 (Algeria)",
+    "iptv_urls": [
+      "http://185.9.2.18/chid_347/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "8.dz@WA",
+    "name": "TV4 (Algeria)",
+    "iptv_urls": [
+      "http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "id": "9.dz@WA",
+    "name": "Almagharibia TV: المغاربية",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/hzJbvd4-E0I"
+    ],
+    "language": "ara",
+    "country": "dz",
+    "isGeoBlocked": false
+  }
+]
